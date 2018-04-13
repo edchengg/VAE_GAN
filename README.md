@@ -1,4 +1,4 @@
 # VAE+GAN
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/edchengg/VAE_GAN/blob/master/results/result.gif)
