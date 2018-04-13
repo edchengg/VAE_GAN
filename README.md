@@ -57,6 +57,15 @@ dis_loss = recon_loss + sample_loss + real_loss
 ### Data
 MNIST
 
+### Neural Network
+
+| Encoder       | Decoder          | Discriminator  |
+| ------------- |:-------------:| -----:|
+| 784 * 1024, LeakyReLU | 20 * 1024, LeakyReLU | 784 * 1024, LeakyReLU  |
+| 1024 * 1024, LeakyReLU | 1024 * 1024, LeakyReLU | 1024 * 512, LeakyReLU  |
+| 1024 * 1024, LeakyReLU | 1024 * 1024, LeakyReLU | 512 * 256, LeakyReLU |
+| 1024 * 20 | 1024 * 784, Tanh | 256 * 1, Sigmoid |
+
 ### Generation results
 
 1-50 epochs:
