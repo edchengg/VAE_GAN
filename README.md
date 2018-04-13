@@ -70,6 +70,7 @@ MNIST
 Loss:
 <img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/Figure_1.png" width="300">
 <img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/Figure_2.png" width="300">
+
 1-50 epochs:
 
 ![Alt Text](https://github.com/edchengg/VAE_GAN/blob/master/imgs/result.gif)
