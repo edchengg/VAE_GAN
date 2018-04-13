@@ -6,16 +6,16 @@ This is an Pytorch implementation of [Autoencoding beyond pixels using a learned
 
 Encoder + Decoder/Generator + Discriminator
 
-<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/vaegan.gif" width="300">
+<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/vaegan.png" width="300">
 
 ## VAE/GAN in training
 
 Encoder + Decoder/Generator + Discriminator
 
-<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/vaegant.gif" width="300">
+<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/vaegant.png" width="300">
 
 ### Training Algorithm
 
-<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/algo.gif" width="300">
+<img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/algo.png" width="300">
 
 ![Alt Text](https://github.com/edchengg/VAE_GAN/blob/master/imgs/result.gif)
