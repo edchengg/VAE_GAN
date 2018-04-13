@@ -66,10 +66,11 @@ MNIST
 | 1024 * 1024, LeakyReLU | 1024 * 1024, LeakyReLU | 512 * 256, LeakyReLU |
 | 1024 * 20 | 1024 * 784, Tanh | 256 * 1, Sigmoid |
 
-### Generation results
-Loss:
+###Loss:
 <img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/Figure_1.png" width="300">
 <img src="https://github.com/edchengg/VAE_GAN/blob/master/imgs/Figure_2.png" width="300">
+
+### Generation sample:
 
 1-50 epochs:
 
