@@ -33,6 +33,8 @@ class Discriminator
 
 ### Decoder/Generator Loss Function
 ```python
+X_sim = discriminator.similarity(x_tilde)
+X_data = discriminator.similarity(data)
 rec_loss = ((X_sim - X_data) ** 2).mean()
 dec_loss = GAMMA * rec_loss - dis_loss
 ```
