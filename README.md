@@ -1,6 +1,6 @@
 # VAE/GAN
 
-This is an Pytorch implementation of [Autoencoding beyond pixels using a learned similarity metric(VAE/GAN)](https://arxiv.org/abs/1512.09300) in Python.
+This is an Pytorch implementation of [Autoencoding beyond pixels using a learned similarity metric(VAE/GAN)](https://arxiv.org/abs/1512.09300) in Python.(Pytorch)
 
 ## Variational Autoencoder + Generative Adverisal Network
 
